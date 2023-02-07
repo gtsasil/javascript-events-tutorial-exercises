@@ -1,4 +1,4 @@
 // your function goes here
-function myFunc(){
+window.onload = function loadListener(){
     alert("loading finished...");
 }
